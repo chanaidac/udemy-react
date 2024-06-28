@@ -1,4 +1,4 @@
-function Navbar() {
+let Navbar = () => {
     return (
         <div className="navbar">
             <div className="navbar__s1">

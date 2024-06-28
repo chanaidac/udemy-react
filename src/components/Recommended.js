@@ -2,7 +2,7 @@ import c1 from '../assets/images/c1.jpg'
 import c2 from '../assets/images/c2.jpg'
 import c3 from '../assets/images/c3.jpg'
 import c4 from '../assets/images/c4.jpg'
-function Recommended() {
+let Recommended = () => {
     return (
         <div className="recommended">
             <h1 className="recommended_title">Recommended for you</h1>

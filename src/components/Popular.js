@@ -2,8 +2,7 @@ import c1 from '../assets/images/c1.jpg';
 import c2 from '../assets/images/c2.jpg';
 import c3 from '../assets/images/c3.jpg';
 import c4 from '../assets/images/c4.jpg';
-
-function Popular() {
+let Popular = () => {
     return (
         <div className="popular">
             <h1 className="popular__title">Most Popular</h1>

@@ -1,4 +1,4 @@
-function Topic() {
+let Topic = () => {
     return (
         <div className="topics">
             <h1 className="topics__title">Topic</h1>

@@ -1,4 +1,4 @@
-function Categories() {
+let Categories = () => {
     return (
         <div className="category">
             <p>Development</p>

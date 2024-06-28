@@ -1,5 +1,5 @@
 import bannerImg from '../assets/images/sale-image.jpg';
-function Banner() {
+let Banner = () => {
     return (
         <div className="sale-image">
             <img src={bannerImg} alt="sale-image" />
